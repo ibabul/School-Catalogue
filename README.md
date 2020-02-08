@@ -1,1 +1,1 @@
-# school-category
+# School Catalogue
